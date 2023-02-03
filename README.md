@@ -1,6 +1,10 @@
 duovia-fuzzystrings
 ==========
 
+## Source Article
+
+https://www.tsjensen.com/blog/post/2011/05/27/Four+Functions+For+Finding+Fuzzy+String+Matches+In+C+Extensions
+
 DuoVia.FuzzyStrings
 ----------
 > 
